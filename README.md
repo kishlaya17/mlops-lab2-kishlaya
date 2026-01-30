@@ -1,1 +1,1 @@
-# mlops-lab2-kishlaya
+# mlops-dockerlab1-kishlaya
